@@ -96,9 +96,17 @@ Metode K-Means Clustering membantu mengelompokkan negara berdasarkan kemiripan k
 ---
 
 **Dibuat oleh**
-**Nama:Cintiya Agustin Nareswari**  
+
+**Anggota 1:**
+
+**Nama:Cintiya Agustin Nareswari**
+
 **NIM: 24031554218**
 
-**Nama: Ayda Syifa Ul Aliyah**  
+**Anggota 2:**
+
+**Nama: Ayda Syifa Ul Aliyah** 
+
 **NIM: 1314623064**
+
 *Tugas Ujian Akhir Semester — Semester 3*
